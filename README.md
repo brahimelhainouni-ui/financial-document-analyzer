@@ -65,3 +65,14 @@ This project is part of my practical learning in:
 - Data processing with Pandas
 - Streamlit web applications
 - Local LLM integration using Ollama
+
+
+## Screenshots
+
+### Dashboard Overview
+
+![Dashboard](screenshots/dashboard.png)
+
+### AI Financial Analysis
+
+![AI Analysis](screenshots/ai-analysis.png)
